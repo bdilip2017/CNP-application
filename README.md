@@ -1,5 +1,3 @@
-# CNP-application
-
 # Introduction 
 Simple ASP.NET [web application](https://github.com/Azure-Samples/cosmos-dotnet-core-todo-app).
 Application sample shows you how to use the Microsoft Azure Cosmos DB service to store and access data from an ASP.NET Core MVC application hosted on Azure Kubernetes Service.
